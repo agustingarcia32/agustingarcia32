@@ -1,7 +1,7 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there!👋 &nbsp; I'm Agustín Garcia</h2>
 
 
-### 👨🏻‍💻 &nbsp;About Me:
+### 🏆 &nbsp;About Me:
 
 👨‍💻 &nbsp;I am DATA ENGINEER.\
 🎓 &nbsp;I am studying SYSTEMS ENGINEERING at the National Technological University (UTN).\
