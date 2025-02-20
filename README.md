@@ -3,11 +3,11 @@
 
 ### 🏆 &nbsp;About Me:
 
-👨‍💻 &nbsp;I am DATA ENGINEER.\
-🎓 &nbsp;I am studying SYSTEMS ENGINEERING at the National Technological University (UTN).\
-📚 &nbsp;I studied English at Cambridge Institute, I am level B2.\
+--👨‍💻 &nbsp;I am DATA ENGINEER.\
+--🎓 &nbsp;I am studying SYSTEMS ENGINEERING at the National Technological University (UTN).\
+--📚 &nbsp;I studied English at Cambridge Institute, I am level B2.\
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Languages, Frameworks & Tools:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
