@@ -1,6 +1,6 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
 
-<!-- ## Hey there!👋 &nbsp; I'm Agustín Garcia -->
+### 👋 &nbsp;Hey there! I'm Agustín Garcia
 
 ### 👨🏻‍💻 &nbsp;About Me
 
