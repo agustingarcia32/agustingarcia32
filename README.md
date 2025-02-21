@@ -33,7 +33,6 @@
 
 
 
-
 ----
 
 <div align="center">
@@ -43,28 +42,7 @@
 </div>
 
 
-
-
-
-
-
 ----
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
-
-------
-
-
-
-
-
-
-
-
-
 
 <p>Connect with me on
 <br>	
@@ -74,13 +52,3 @@
 </p>
 
 
-
-
-
-----
-
-<p align='center'>
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-
-<p align="left">
-<a href="https://www.cprogramming.com/" target="_blank"> <img
