@@ -11,7 +11,7 @@
 
 --👨‍💻 &nbsp;I am DATA ENGINEER.\
 --🎓 &nbsp;I am studying SYSTEMS ENGINEERING at the National Technological University (UTN).\
---📚 &nbsp;I studied English at Cambridge Institute, I am level B2.
+--📚 &nbsp;English (Professional working proficiency).
 
 ### 🛠 &nbsp;Languages, Frameworks & Tools:
 
